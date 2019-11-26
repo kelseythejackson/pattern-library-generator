@@ -1,0 +1,13 @@
+{
+  "name": "pattern-library-generator",
+  "version": "1.0.0",
+  "description": "A Static ",
+  "main": "index.js",
+  "repository": "https://github.com/kelseythejackson/pattern-library-generator.git",
+  "author": "Kelsey Jackson <kelseythej@gmail.com>",
+  "license": "MIT",
+  "devDependencies": {
+    "esm": "^3.2.25",
+    "fs-extra": "^8.1.0"
+  }
+}
